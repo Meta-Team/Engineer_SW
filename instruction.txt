@@ -1,0 +1,7 @@
+接收：
+git fetch
+git pull
+上传：
+git add .
+git commit -m "此次上传的名字"
+git push
